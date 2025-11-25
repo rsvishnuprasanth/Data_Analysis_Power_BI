@@ -29,3 +29,8 @@ _Building intelligent models to enhance decision-making_
 ---
 
 ## 📊 Projects & Work  
+📌 **Check out my repositories** for hands-on projects showcasing **data analysis, AI, and machine learning** using **Excel, SQL, Python, Power BI, and ML techniques**.  
+
+---
+
+## 💡 *“Data is the new oil, but only if refined into insights.”* 🚀  
