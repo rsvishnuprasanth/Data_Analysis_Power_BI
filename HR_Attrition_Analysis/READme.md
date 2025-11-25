@@ -29,10 +29,10 @@ This project showcases an **interactive HR Attrition Analysis Dashboard** built 
 This dashboard enables HR teams to make **data-driven workforce decisions** by understanding key attrition drivers, identifying high-risk employee groups, and improving internal retention strategies.
 
 ## 📸 Project Preview
-![Dashboard Preview](add-your-screenshot-link-here)
+![Dashboard Preview](https://github.com/rsvishnuprasanth/Data_Analysis_Power_BI/blob/main/HR_Attrition_Analysis/HR%20Attrition%20Analysis%20Dashboard.png)
 
 ## 📂 Project Files
-- 📊 **Power BI Dashboard (.pbix):** add-link-here
-- 📁 **Dataset File:** add-link-here
+- 📊 **Power BI Dashboard (.pbix):** (https://github.com/rsvishnuprasanth/Data_Analysis_Power_BI/blob/main/HR_Attrition_Analysis/HR%20Analytics.pbix)
+- 📁 **Dataset File:** (https://github.com/rsvishnuprasanth/Data_Analysis_Power_BI/blob/main/HR_Attrition_Analysis/HR_Analytics.csv)
 
 💡 _“Transforming HR data into meaningful insights for stronger employee retention!”_ 🚀
