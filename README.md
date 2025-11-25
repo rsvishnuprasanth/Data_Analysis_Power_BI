@@ -1,2 +1,31 @@
-# Data_Analysis_Power_BI
-A collection of Power BI projects featuring interactive dashboards, insightful data visualizations, and end-to-end business intelligence solutions.
+# 👋 Hi there, I'm Vishnu Prasanth R S!  
+## 🚀 Data & AI Enthusiast | Transforming Raw Data into Actionable Insights  
+
+### 🔹 Expertise  
+- 📊 **Advanced Excel**  
+- 💾 **MySQL**  
+- 🐍 **Python**  
+- 📈 **Power BI**  
+- 🤖 **AI & Machine Learning**  
+
+### 🔹 Experience  
+💡 Leveraging **database, programming, and AI skills** to drive **data-driven decision-making**  
+
+### 🔹 Passion  
+✨ Analyzing, visualizing, and optimizing data while integrating AI for smarter business solutions  
+
+---
+
+## 🚀 What I Do  
+✔ **Data Analysis & Visualization** 📊  
+_Uncovering trends, patterns, and insights_  
+
+✔ **Database Management** 💾  
+_Designing efficient queries and optimizing performance_  
+
+✔ **AI & Machine Learning** 🤖  
+_Building intelligent models to enhance decision-making_  
+
+---
+
+## 📊 Projects & Work  
